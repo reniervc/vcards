@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-F:Riaan
-N:Botes
+N:Botes;Riaan;;;
+FN:Riaan Botes
 ORG:Santam Re International
 TEL:0219158335
 EMAIL:riaan.botes@santam.co.za
